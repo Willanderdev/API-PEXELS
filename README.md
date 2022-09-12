@@ -1,3 +1,4 @@
 # API-PEXELS
 Código Python mostrando o consumo de uma API  de vídeo da Pexels.. abrindo os vídeos automaticamente em um browser
-![7](https://user-images.githubusercontent.com/32337958/189702270-3bb707f9-702b-4377-81a1-64e1912d24fc.png)
+
+![8](https://user-images.githubusercontent.com/32337958/189702472-12e24096-36b1-42bf-8836-2e20658d7177.png)
